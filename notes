@@ -1,0 +1,22 @@
+website:
+
+Login - click on login button in login page name + password --> User: name, id, pw(bycripted) -> JPA
+
+Read:
+Story? - külön osztályokat hozzon létre betöltéskor?
+MongoDB
+
+
+Buy things:
+books - show on list, add to cart
+Book.java
+BookRepository
+MongoDB
+
+Lets start to use MongoDB! instead of H2
+
+
+
+TODO check Thymeleaf kifejezések!
+
+
